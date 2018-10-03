@@ -1,0 +1,9 @@
+package cn.e3mall.controller;
+/**
+ * 图片上传类
+ * @author think
+ *
+ */
+public class PictureController {
+
+}

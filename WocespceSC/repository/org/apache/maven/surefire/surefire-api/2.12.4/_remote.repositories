@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 19 11:57:26 CST 2018
+surefire-api-2.12.4.jar>central=
+surefire-api-2.12.4.pom>central=
+surefire-api-2.12.4.pom>aliyun=
+surefire-api-2.12.4.jar>aliyun=

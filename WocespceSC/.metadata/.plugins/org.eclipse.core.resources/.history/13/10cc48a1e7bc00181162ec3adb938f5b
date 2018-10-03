@@ -1,0 +1,24 @@
+package cn.e3mall.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import cn.e3mall.common.pojo.EasyUITreeNode;
+import cn.e3mall.service.ItemCatService;
+
+@Controller
+public class ItemCatController {
+
+	@Autowired
+	private ItemCatService itemCatService;
+	
+	public List<EasyUITreeNode> getItemCatList(){
+		
+		
+		return "";
+	}
+	
+	
+}

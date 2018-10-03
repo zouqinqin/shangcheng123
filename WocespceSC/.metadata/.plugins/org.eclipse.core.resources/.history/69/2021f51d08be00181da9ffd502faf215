@@ -1,0 +1,13 @@
+package cn.e3mall.testFasrDFS;
+
+import org.junit.Test;
+
+public class FastDFSTest {
+	
+	@Test
+	public void testFilUploas(){
+		
+		
+	}
+
+}

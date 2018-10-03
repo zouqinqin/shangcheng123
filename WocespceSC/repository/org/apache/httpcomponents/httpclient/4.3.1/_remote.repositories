@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 19 12:08:44 CST 2018
+httpclient-4.3.1.jar>aliyun=
+httpclient-4.3.1.jar>central=
+httpclient-4.3.1.pom>central=
+httpclient-4.3.1.pom>aliyun=
